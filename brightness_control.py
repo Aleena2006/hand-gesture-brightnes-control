@@ -1,3 +1,8 @@
+"""
+Hand Gesture Brightness Control
+Author: Aleena Sahoo
+Description: Control system brightness using finger distance
+"""
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 from math import hypot
